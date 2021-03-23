@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "pack_id": 1,
+    "pack_name": "Boyd Orr",
+    "pack_version": 1,
+    "description": "Expansion pack for Boyd Orr building",
+    "w3w": "years.gains.branch",
+    "organisation": "University of Glasgow"
+  },
+  "UUIDs": [
+    {"id":"00000000-0000-0000-0000-000000000001",
+      "nmw": "2-1-2",
+      "name": "BO Lecture Theatre 1",
+      "description": "Lecture theatre one in the Boyd Orr building",
+      "website": ""
+    },
+    {"id":"00000000-0000-0000-0000-000000000002",
+      "nmw": "2-1-2",
+      "name": "BO Lecture Theatre 1",
+      "description": "Lecture theatre one in the Boyd Orr building",
+      "website": ""
+    },
+    {"id":"00000000-0000-0000-0000-000000000003",
+      "nmw": "2-1-2",
+      "name": "Boyd Orr",
+      "description": "Entrance to Boyd Orr building",
+      "website": "example.com"
+    }
+  ]
+}
