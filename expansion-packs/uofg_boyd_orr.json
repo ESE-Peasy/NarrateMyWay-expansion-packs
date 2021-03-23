@@ -7,24 +7,34 @@
     "w3w": "years.gains.branch",
     "organisation": "University of Glasgow"
   },
-  "UUIDs": [
-    {"id":"00000000-0000-0000-0000-000000000001",
+  "beacons": [
+    {"uuid":"00000000-0000-0000-0000-000000000001",
+      "mac":"AA:BB:CC:DD:EE:FF",
       "nmw": "2-1-2",
       "name": "BO Lecture Theatre 1",
       "description": "Lecture theatre one in the Boyd Orr building",
       "website": ""
     },
-    {"id":"00000000-0000-0000-0000-000000000002",
+    {"uuid":"00000000-0000-0000-0000-000000000002",
+      "mac":"FF:EE:DD:CC:BB:AA",
       "nmw": "2-1-2",
-      "name": "BO Lecture Theatre 1",
-      "description": "Lecture theatre one in the Boyd Orr building",
+      "name": "BO Lecture Theatre 2",
+      "description": "Lecture theatre two in the Boyd Orr building",
       "website": ""
     },
-    {"id":"00000000-0000-0000-0000-000000000003",
+    {"uuid":"00000000-0000-0000-0000-000000000003",
+      "mac":"DC:0D:30:04:1B:87",
       "nmw": "2-1-2",
       "name": "Boyd Orr",
       "description": "Entrance to Boyd Orr building",
       "website": "example.com"
+    },
+    {"uuid":"00000000-0000-0000-0000-000000000003",
+      "mac":"0A:0B:0C:0D:0E:0F",
+      "nmw": "3-0-0",
+      "name": "BO Cafe",
+      "description": "Cafe in the Boyd Orr building offering hot beverages and vending machines",
+      "website": ""
     }
   ]
 }
