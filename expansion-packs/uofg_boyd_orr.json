@@ -1,8 +1,8 @@
 {
   "meta": {
-    "pack_id": 1,
-    "pack_name": "Boyd Orr",
-    "pack_version": 1,
+    "packId": 1,
+    "packName": "Boyd Orr",
+    "packVersion": 1,
     "description": "Expansion pack for Boyd Orr building",
     "w3w": "years.gains.branch",
     "organisation": "University of Glasgow"

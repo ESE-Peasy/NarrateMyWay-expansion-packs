@@ -1,8 +1,8 @@
 {
   "meta": {
-    "pack_id": 2,
-    "pack_name": "James Watt",
-    "pack_version": 3,
+    "packId": 2,
+    "packName": "James Watt",
+    "packVersion": 3,
     "description": "Expansion pack for James Watt building",
     "w3w": "plus.dinner.casino",
     "organisation": "University of Glasgow"
