@@ -8,7 +8,7 @@
     "organisation": "University of Glasgow"
   },
   "beacons": [
-    {"uuid":"00000000-0000-0000-0000-000000000004",
+    {"uuid":"3DE67270-E3C0-1915-4422-FD2C4F21CC91",
       "mac":"E7:17:3B:A7:A9:48",
       "nmw": "2-0-0",
       "name": "JWS Study Area",
