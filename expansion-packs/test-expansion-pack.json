@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "packId": 3,
+    "packName": "Example area",
+    "packVersion": 1,
+    "description": "Expansion pack for an example location",
+    "w3w": "prosecuted.amplification.showings",
+    "organisation": "Example organisation"
+  },
+  "beacons": [
+    {"uuid":"00000000-0000-0000-0000-000000000000",
+      "mac":"FA:ED:37:5B:AC:94",
+      "nmw": "1-EXP-AND",
+      "name": "One",
+      "description": "Test beacon one (expansion beacon)",
+      "website": ""
+    },
+    {"uuid":"00000000-0000-0000-0000-000000000000",
+      "mac":"DF:6F:0C:65:29:26",
+      "nmw": "1-2-0",
+      "name": "Two",
+      "description": "Test beacon two",
+      "website": ""
+    }
+  ]
+}
