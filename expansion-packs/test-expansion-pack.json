@@ -15,7 +15,7 @@
       "description": "Test beacon one (expansion beacon)",
       "website": ""
     },
-    {"uuid":"00000000-0000-0000-0000-000000000000",
+    {"uuid":"00000000-0000-0000-0000-000000000001",
       "mac":"DF:6F:0C:65:29:26",
       "nmw": "1-2-0",
       "name": "Two",
