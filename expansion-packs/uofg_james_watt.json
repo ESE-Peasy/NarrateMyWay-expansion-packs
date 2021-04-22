@@ -2,7 +2,7 @@
   "meta": {
     "packId": 2,
     "packName": "James Watt",
-    "packVersion": 3,
+    "packVersion": 4,
     "description": "Expansion pack for James Watt building",
     "w3w": "plus.dinner.casino",
     "organisation": "University of Glasgow"
@@ -15,16 +15,16 @@
       "description": "Study area with vending machines in James Watt South building",
       "website": ""
     },
-    {"uuid":"00000000-0000-0000-0000-000000000005",
-      "mac":"01:23:45:AB:CD:EF",
+    {"uuid":"DCD1CD32-2F78-FD74-0973-45DC645104EE",
+      "mac":"DC:0D:30:04:1B:C1",
       "nmw": "2-1-2",
       "name": "JWS Lecture Hall 375",
       "description": "Lecture hall 375 in the James Watt South building",
-      "website": ""
+      "website": "https://www.accessable.co.uk/university-of-glasgow/access-guides/room-375-lecture-theatre-j15#6ac93850-81ba-534d-a394-5de13fbb24ef"
     },
-    {"uuid":"00000000-0000-0000-0000-000000000006",
-      "mac":"00:01:02:03:04:05",
-      "nmw": "2-1-2",
+    {"uuid":"67F3C28A-BC28-852B-1180-71F7E1D32E17",
+      "mac":"D0:E1:09:B2:97:D8",
+      "nmw": "2-2-0",
       "name": "JWS Creativity Lab",
       "description": "Group study area with several power outlets",
       "website": ""
