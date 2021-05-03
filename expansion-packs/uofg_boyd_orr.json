@@ -9,7 +9,7 @@
   },
   "beacons": [
     {"uuid":"00000000-0000-0000-0000-000000000001",
-      "mac":"AA:BB:CC:DD:EE:FF",
+      "mac":"80:30:DC:DD:37:FB",
       "nmw": "2-1-2",
       "name": "BO Lecture Theatre 1",
       "description": "Boyd Orr 203 (Lecture Theatre 1) with 306 raked seats; lectern to right on entry.",
